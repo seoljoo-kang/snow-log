@@ -1,5 +1,6 @@
 import styled from "@emotion/styled"
 import Link from "next/link"
+// import React from 'react'
 
 const NavBar: React.FC = () => {
   const links = [{ id: 1, name: "😀About me", to: "/about" }]
