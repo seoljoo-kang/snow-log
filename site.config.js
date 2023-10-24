@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "snowLog",
-    description: "Welcome to snowLog!!",
+    description: "Welcome to snowLog!",
     theme: "light", // ['light', 'dark', 'auto']
   },
 
